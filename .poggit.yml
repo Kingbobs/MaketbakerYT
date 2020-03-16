@@ -1,0 +1,7 @@
+--- # Poggit-CI
+branches:
+- master
+projects:
+  MythicRelics:
+    path: ""
+...
